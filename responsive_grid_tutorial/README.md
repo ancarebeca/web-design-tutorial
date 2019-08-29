@@ -6,6 +6,8 @@ A responsive web design using HTML5 and CSS3 built using the CSS grid
 
 See the video tutorial here: https://www.youtube.com/watch?v=gH3sBOj6CGA&t
 
+## Author
+
 https://github.com/wilsmex/edu/tree/master/responsive_grid_tutorial
 
 ## License
